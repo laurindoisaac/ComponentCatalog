@@ -1,2 +1,1 @@
-# ComponentCatalog
-Professional ComponentCatalog platform with ComponentCatalog-optimized cloud-ready and enterprise componentcatalog-optimization capabilities
+.
